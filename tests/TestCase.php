@@ -2,8 +2,8 @@
 
 namespace Andali\Skeleton\Tests;
 
-use Orchestra\Testbench\TestCase as Orchestra;
 use Andali\Skeleton\SkeletonServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {

@@ -2,8 +2,8 @@
 
 namespace Andali\Skeleton;
 
-use Illuminate\Support\ServiceProvider;
 use Andali\Skeleton\Commands\SkeletonCommand;
+use Illuminate\Support\ServiceProvider;
 
 class SkeletonServiceProvider extends ServiceProvider
 {
